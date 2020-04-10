@@ -1,0 +1,28 @@
+{
+  "name": "@tracy-chang/vue-cli-plugin-creatproject",
+  "version": "0.1.3",
+  "description": "vue-cli-plugin-creatproject",
+  "main": "prompts.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Tracy-Chang/vue-cli-plugin-creatproject.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "plugin"
+  ],
+  "scripts": {
+    "changelog": "standard-version",
+    "commit": "git add . && npx git-cz"
+  },
+  "author": "tracy-chang",
+  "license": "ISC",
+  "devDependencies": {
+    "git-cz": "^4.3.1",
+    "standard-version": "^7.1.0"
+  },
+  "dependencies": {
+    "lodash.lowerfirst": "^4.3.1"
+  }
+}
