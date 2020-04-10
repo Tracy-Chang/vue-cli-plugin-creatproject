@@ -1,6 +1,6 @@
 {
   "name": "@tracy-chang/vue-cli-plugin-creatproject",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "vue-cli-plugin-creatproject",
   "main": "prompts.js",
   "repository": {
