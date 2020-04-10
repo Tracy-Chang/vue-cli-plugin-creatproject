@@ -1,1 +1,1 @@
-# init a project
+# init a common project
